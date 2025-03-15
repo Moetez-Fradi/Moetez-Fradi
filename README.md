@@ -24,7 +24,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/burp_suite/burp_suite-icon.svg" alt="burpsuite" width="40" height="40"/></a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="burpsuite" width="40" height="40"/></a>
 </p>
 
 #### **Web Development**
