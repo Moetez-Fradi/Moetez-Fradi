@@ -47,8 +47,8 @@
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moetez-Fradi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A&layout=compact" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetez-Fradi&layout=compact&theme=dark&hide_border=true&title_color=7AF79A" alt="Top Languages" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Moetez-Fradi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A&layout=compact" alt="GitHub Stats" width="45%"/>
 </p>
 
 ---
