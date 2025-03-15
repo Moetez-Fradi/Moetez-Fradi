@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moetez Fradi</h1>
 <h3 align="center">Computer Science Student | ML Engineer | Cybersecurity Enthusiast</h3>
-<h4 align="center">From Tunisia 🇹🇳</h4>
+<h4 align="center">From Tunisia</h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Moetez;Machine+Learning+Engineer;Cybersecurity+%26+Ethical+Hacking;Full-Stack+Web+Developer;Proud+Tunisian+🇹🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Moetez;Future+Machine+Learning+Engineer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Full-Stack+Web+Developer;Proud+Tunisian)](https://git.io/typing-svg)
 
 <br>
 
@@ -25,7 +25,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/></a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/></a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/burp_suite/burp_suite-icon.svg" alt="burpsuite" width="40" height="40"/></a>
 </p>
 
 #### **Web Development**
