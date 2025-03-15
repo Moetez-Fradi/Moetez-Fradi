@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Moetez;Future+Machine+Learning+Engineer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Full-Stack+Web+Developer;Proud+Tunisian+🇹🇳)](https://git.io/typing-svg)
 
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>
 
 ---
@@ -48,18 +47,18 @@
 
 ### 📈 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moetez-Fradi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetez-Fradi&layout=compact&theme=dark&hide_border=true&title_color=7AF79A" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moetez-Fradi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A&layout=compact" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetez-Fradi&layout=compact&theme=dark&hide_border=true&title_color=7AF79A" alt="Top Languages" width="45%"/>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/moetez-fradi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://kaggle.com/moetezfradi" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://codeforces.com/profile/dagoat4" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://leetcode.com/golden5ragon" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://linkedin.com/in/moetez-fradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://kaggle.com/moetezfradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40"/></a>
+  <a href="https://codeforces.com/profile/dagoat4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"/></a>
+  <a href="https://leetcode.com/golden5ragon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/></a>
 </p>
 
 ---
@@ -76,7 +75,7 @@
 ### 💬 Let's Build Together!
 <p align="center">
   Feel free to reach out for collaboration, feedback, or just a tech chat!<br>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:your-moetezfradi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Moetez-Fradi/Moetez-Fradi/issues"><img src="https://img.shields.io/badge/GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues"></a>
 </p>
 
