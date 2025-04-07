@@ -2,9 +2,16 @@
 <h3 align="center">Computer Science Student | ML Engineer | Cybersecurity Enthusiast</h3>
 <h4 align="center">From Tunisia 🇹🇳</h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&lines=moetez@github:~%24+echo+'Hello+world!';echo+'Machine+Learning+Engineer';echo+'Cybersecurity+Enthusiast';echo+'Proud+Tunisian+🇹🇳'" />
-
-
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <span style="font-family: 'Fira Code', monospace; font-size: 22px; color: #7AF79A; background: #000000; padding: 10px;">moetez@github:~$</span>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&width=600&lines=echo+'Hello+world!';echo+'Machine+Learning+Engineer';echo+'Cybersecurity+Enthusiast';echo+'Proud+Tunisian+🇹🇳'" alt="Animated echo commands" />
+    </td>
+  </tr>
+</table>
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>
