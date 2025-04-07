@@ -3,8 +3,7 @@
 <h4 align="center">From Tunisia 🇹🇳</h4>
 
 <div style="background: #000000; padding: 10px; font-family: 'Fira Code', monospace; font-size: 22px; color: #7AF79A; display: inline-flex; align-items: center;">
-  <span style="margin-right: 10px;">moetez@github:~$</span>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&width=600&lines=echo+'Hello+world!';echo+'Machine+Learning+Engineer';echo+'Cybersecurity+Enthusiast';echo+'Proud+Tunisian+🇹🇳'" alt="Animated echo commands" style="vertical-align: middle; border: none;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&width=600&lines=>moetez@github:~$+echo+'Hello+world!';>moetez@github:~$+echo+'Machine+Learning+Engineer';>moetez@github:~$+echo+'Cybersecurity+Enthusiast';>moetez@github:~$+echo+'Proud+Tunisian+🇹🇳'" alt="Animated echo commands" style="vertical-align: middle; border: none;"/>
 </div>
 
 
