@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | ML Engineer | Cybersecurity Enthusiast</h3>
 <h4 align="center">From Tunisia 🇹🇳</h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&lines=moetez@github:~%24+echo+'Hello+world!';moetez@github:~%24+echo+'Machine+Learning+Engineer';moetez@github:~%24+echo+'Cybersecurity+Enthusiast';moetez@github:~%24+echo+'Proud+Tunisian+🇹🇳'" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&lines=moetez@github:~%24+echo+'Hello+world!';echo+'Machine+Learning+Engineer';echo+'Cybersecurity+Enthusiast';echo+'Proud+Tunisian+🇹🇳'" />
 
 
 
