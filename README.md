@@ -2,7 +2,8 @@
 <h3 align="center">Computer Science Student | ML Engineer | Cybersecurity Enthusiast</h3>
 <h4 align="center">From Tunisia 🇹🇳</h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello!+I'm+Moetez;Future+Machine+Learning+Engineer;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Full-Stack+Web+Developer;Proud+Tunisian" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&multiline=true&width=600&height=60&lines=moetez@github:~%24+echo+'Hello+world!';echo+'Machine+Learning+Engineer';echo+'Cybersecurity+Enthusiast';echo+'Proud+Tunisian+🇹🇳'" />
+
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>
