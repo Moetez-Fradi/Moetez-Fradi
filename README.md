@@ -8,58 +8,58 @@
 
 ---
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>
+ <!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p> -->
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Machine Learning & Data Science**
+### **Machine Learning & Data Science**
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://assets.datacamp.com/users/avatars/011/823/992/medium/seaborn.png?1695112269" alt="scipy" width="50" height="50"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="100" height="100"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="100" height="100"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="100" height="100"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://assets.datacamp.com/users/avatars/011/823/992/medium/seaborn.png?1695112269" alt="scipy" width="100" height="100"/></a>
 </p>
 
-#### **LLMs and AI Agents**
+### **LLMs and AI Agents**
 <p>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-jupyter-3521524-2945027.png" alt="jupyter" width="50" height="50"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
-<a href="https://huggingface.co/docs/smolagents" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="smolagents" width="50" height="50"/></a>
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="50" height="50"/></a>
-<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="LlamaIndex" width="50"/></a>
-<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="50" height="50"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-jupyter-3521524-2945027.png" alt="jupyter" width="100" height="100"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="100" height="100"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="100" height="100"/></a>
+<a href="https://huggingface.co/docs/smolagents" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="smolagents" width="100" height="100"/></a>
+<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="100" height="100"/></a>
+<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="LlamaIndex" width="100"/></a>
+<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="100" height="100"/></a>
 </p>
 
-#### **Cybersecurity & Ethical Hacking**
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="50"/></a> <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="50"/></a> <a href="https://portswigger.net/burp" target="_blank"><img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" alt="Burp Suite" width="50"/></a> <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/149EF2" alt="Metasploit" width="50"/></a> <a href="https://nmap.org/" target="_blank"><img src="https://appimage.github.io/database/nmap/icons/256x256/nmap.png" alt="Nmap" width="50"/></a> <a href="https://www.torproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/torproject/7E4798" alt="Tor" width="50"/></a> </p>
+### **Cybersecurity & Ethical Hacking**
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="100"/></a> <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="100"/></a> <a href="https://portswigger.net/burp" target="_blank"><img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" alt="Burp Suite" width="100"/></a> <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/149EF2" alt="Metasploit" width="100"/></a> <a href="https://nmap.org/" target="_blank"><img src="https://appimage.github.io/database/nmap/icons/256x256/nmap.png" alt="Nmap" width="100"/></a> <a href="https://www.torproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/torproject/7E4798" alt="Tor" width="100"/></a> </p>
 
-#### **Web Development**
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="50"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50"/></a> <a href="https://nextjs.org/" target="_blank"><img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" width="50"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="50"/></a> <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="50"/></a> <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="50"/></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="50"/></a> <a href="https://symfony.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=78295&format=png" alt="Symfony" width="50"/></a> </p>
+### **Web Development**
+<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="100"/></a><a href="https://reactjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="100"/></a> <a href="https://nextjs.org/" target="_blank"><img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" width="100"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="100"/></a> <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="100"/></a> <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="100"/></a> <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="100"/></a> <a href="https://symfony.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=78295&format=png" alt="Symfony" width="100"/></a> </p>
 
-#### **Cloud, Databases & DevOps**
-<p align="left"><a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png" alt="AWS" width="50"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="50"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="50"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50"/></a>  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="50"/></a> </p>
+### **Cloud, Databases & DevOps**
+<p align="left"><a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png" alt="AWS" width="100"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="100"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="100"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="100"/></a>  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="100"/></a> </p>
 
-#### **Emerging Technologies**
-<p align="left">  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="50"/></a> <a href="https://bitcoin.org/" target="_blank"><img src="https://cdn.simpleicons.org/bitcoin/F7931A" alt="Bitcoin" width="50"/></a> <a href="https://ethereum.org/" target="_blank"><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum" width="50"/></a> <a href="https://qiskit.org/" target="_blank"><img src="https://yt3.googleusercontent.com/YQnuzB3TXutCUHZvEdkWgc-Vtkyiy480S8ba_uwN4koTHmddv2G3iJuWGx0mNkJR552Z6-bdE9w=s900-c-k-c0x00ffffff-no-rj" alt="Qiskit (IBM)" width="50" style="border-radius:50%"/></a> </p>
+### **Emerging Technologies**
+<p align="left">  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" width="100"/></a> <a href="https://bitcoin.org/" target="_blank"><img src="https://cdn.simpleicons.org/bitcoin/F7931A" alt="Bitcoin" width="100"/></a> <a href="https://ethereum.org/" target="_blank"><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="Ethereum" width="100"/></a> <a href="https://qiskit.org/" target="_blank"><img src="https://yt3.googleusercontent.com/YQnuzB3TXutCUHZvEdkWgc-Vtkyiy480S8ba_uwN4koTHmddv2G3iJuWGx0mNkJR552Z6-bdE9w=s900-c-k-c0x00ffffff-no-rj" alt="Qiskit (IBM)" width="100" style="border-radius:50%"/></a> </p>
 
-#### **Tools & Others**
+### **Tools & Others**
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" alt="linux" width="50" height="50"/></a>
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="50" height="50"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="Blender" width="50" height="50"/></a>
-  <a href="http://www.makehumancommunity.org/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e60381ee2fbedaf78b97d58552121473/makehuman.png" alt="MakeHuman" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/></a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/1200px-Arch_Linux_%22Crystal%22_icon.svg.png" alt="linux" width="100" height="100"/></a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="100" height="100"/></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png" alt="Blender" width="100" height="100"/></a>
+  <a href="http://www.makehumancommunity.org/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e60381ee2fbedaf78b97d58552121473/makehuman.png" alt="MakeHuman" width="100" height="100"/></a>
 </p>
 
 
 
 ---
 
-### 📈 Stats
+## 📈 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moetez-Fradi&layout=compact&theme=dark&hide_border=true&title_color=7AF79A" alt="Top Languages" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Moetez-Fradi&show_icons=true&theme=dark&hide_border=true&title_color=7AF79A&icon_color=7AF79A&layout=compact" alt="GitHub Stats" width="45%"/>
@@ -67,12 +67,12 @@
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/moetez-fradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/></a>
-  <a href="https://kaggle.com/moetezfradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="50" height="50"/></a>
-  <a href="https://codeforces.com/profile/dagoat4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="50" height="50"/></a>
-  <a href="https://leetcode.com/golden5ragon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50"/></a>
+  <a href="https://linkedin.com/in/moetez-fradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="100" height="100"/></a>
+  <a href="https://kaggle.com/moetezfradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="100" height="100"/></a>
+  <a href="https://codeforces.com/profile/dagoat4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="100" height="100"/></a>
+  <a href="https://leetcode.com/golden5ragon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="100" height="100"/></a>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 
 ---
 
-### 💬 Let's Build Together!
+## 💬 Let's Build Together!
 <p align="center">
   Feel free to reach out for collaboration, feedback, or just a tech chat!<br>
   <a href="mailto:your-moetezfradi7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
