@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&background=000000&width=700&lines=>moetez@github:~$+echo+'AI+Engineer';>moetez@github:~$+echo+'Cybersecurity+Enthusiast';>moetez@github:~$+echo+'Proud+Tunisian+🇹🇳'" alt="Animated echo commands" style="vertical-align: middle; border: none;"/>
 </div>
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-gif" /></p>
-
 ---
 
 ### 🛠️ Tech Stack
