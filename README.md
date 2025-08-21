@@ -1,4 +1,4 @@
-<h1 align="center">YO 👋, I'm Moetez Fradi</h1>
+<h1 align="center">YO, I'm Moetez Fradi</h1>
 <h3 align="center">Computer Science Student | AI Engineer | Cybersecurity Enthusiast</h3>
 <br />
 <div style="padding: 10px; font-family: 'Fira Code', monospace; font-size: 22px; color: #7AF79A; display: inline-flex; align-items: center;">
