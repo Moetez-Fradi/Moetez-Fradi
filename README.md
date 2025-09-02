@@ -20,6 +20,8 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://assets.datacamp.com/users/avatars/011/823/992/medium/seaborn.png?1695112269" alt="scipy" width="70" height="70"/></a>
+  <a href="https://www.statsmodels.org/stable/index.html" target="_blank"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="70"/></a>
+
 </p>
 
 ### **LLMs and AI Agents**
@@ -43,6 +45,7 @@
 <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/149EF2" alt="Metasploit" width="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://nmap.org/" target="_blank"><img src="https://appimage.github.io/database/nmap/icons/256x256/nmap.png" alt="Nmap" width="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.torproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/torproject/7E4798" alt="Tor" width="70"/></a>
+  <a href="https://www.qubes-os.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Qubes_OS_Logo.svg/1200px-Qubes_OS_Logo.svg.png" alt="qubes" width="70"/></a>
 </p>
 
 ### **Web Development**
@@ -56,6 +59,7 @@
 <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.simpleicons.org/springboot/6DB33F" alt="Spring Boot" width="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://symfony.com/" target="_blank"><img src="https://img.icons8.com/?size=512&id=78295&format=png" alt="Symfony" width="70"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="fastapi" width="70"/></a>
 </p>
 
 ### **Cloud, Databases & DevOps**
