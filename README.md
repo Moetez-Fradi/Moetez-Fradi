@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | AI Engineer | Cybersecurity Enthusiast</h3>
 <br />
 <div style="padding: 10px; font-family: 'Fira Code', monospace; font-size: 22px; color: #7AF79A; display: inline-flex; align-items: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&width=700&lines=>moetez@github:~$+echo+'AI+Engineer';>moetez@github:~$+echo+'Cybersecurity+Enthusiast';>moetez@github:~$+echo+'Proud+Tunisian+🇹🇳'" alt="Animated echo commands" style="vertical-align: middle; border: none;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&width=700&lines=>moetez@github:~$+echo+'AI+Engineer';>moetez@github:~$+echo+'Cybersecurity+Enthusiast'" alt="Animated echo commands" style="vertical-align: middle; border: none;"/>
 </div>
 
 
