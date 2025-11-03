@@ -34,6 +34,7 @@
 <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="LlamaIndex" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="70" height="70"/></a>
+  <a href="" target="_blank" rel="noreferrer"><img scr="https://share.google/6YBT8rvZJITv0svNf" alt="chroma db" width="70" height="70"/> </a>
 </p>
 
 ### **Cybersecurity & Ethical Hacking**
