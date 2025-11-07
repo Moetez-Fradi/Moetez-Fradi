@@ -21,7 +21,9 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://assets.datacamp.com/users/avatars/011/823/992/medium/seaborn.png?1695112269" alt="scipy" width="70" height="70"/></a>
   <a href="https://www.statsmodels.org/stable/index.html" target="_blank"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="70"/></a>
-<a href="" target="_blank"><img src="https://viz.mediapipe.dev/logo.png" alt="statsmodel" width="70"/></a>
+<a href="https://pypi.org/project/mediapipe/" target="_blank"><img src="https://viz.mediapipe.dev/logo.png" alt="statsmodel" width="80"/></a>
+  <a href="https://www.ultralytics.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png" alt="ultralytics" width="70"/></a>
+    <a href="[https://www.ultralytics.com/](https://imagej.net/ij/)" target="_blank"><img src="https://imagej.net/media/icons/imagej2.png" alt="ImageJ" width="70"/></a>
 </p>
 
 ### **LLMs and AI Agents**
