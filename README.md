@@ -83,7 +83,7 @@
   <a href="https://hedera.portal" target="_blank"><img src="https://images.icon-icons.com/3912/PNG/512/hedera_logo_icon_248101.png" alt="Hedera" width="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://qiskit.org/" target="_blank"><img src="https://yt3.googleusercontent.com/YQnuzB3TXutCUHZvEdkWgc-Vtkyiy480S8ba_uwN4koTHmddv2G3iJuWGx0mNkJR552Z6-bdE9w=s900-c-k-c0x00ffffff-no-rj" alt="Qiskit (IBM)" width="70" style="border-radius:50%"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://rust.com" target="_blank"><img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="70"/></a>&nbsp;&nbsp;&nbsp;
-
+    <a href="https://www.reallusion.com/iclone" target="_blank"><img src="https://www.sdc.org.tw/wp-content/uploads/2024/02/4-84465158-799-logo.png" alt="CC5" width="70"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ### **Tools & Others**
