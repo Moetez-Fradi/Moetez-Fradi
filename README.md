@@ -24,7 +24,7 @@
 <a href="https://pypi.org/project/mediapipe/" target="_blank"><img src="https://viz.mediapipe.dev/logo.png" alt="statsmodel" width="80"/></a>
   <a href="https://www.ultralytics.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png" alt="ultralytics" width="70"/></a>
     <a href="https://imagej.net/ij/" target="_blank"><img src="https://imagej.net/media/icons/imagej2.png" alt="ImageJ" width="90"/></a>
-    <a href="https://roboflow.com/" target="_blank"><img src="./roboflow.png" alt="ImageJ" width="90"/></a>
+    <a href="https://roboflow.com/" target="_blank"><img src="./roboflow.png" alt="ImageJ" width="70"/></a>
 </p>
 
 ### **LLMs and AI Agents**
@@ -37,7 +37,6 @@
 <a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="LlamaIndex" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="70" height="70"/></a>
-  <a href="" target="_blank" rel="noreferrer"><img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/d59cc290-b8be-479f-808d-fff5b2d67509" />
  </a>
 </p>
 
