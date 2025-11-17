@@ -23,8 +23,8 @@
   <a href="https://www.statsmodels.org/stable/index.html" target="_blank"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="70"/></a>
 <a href="https://pypi.org/project/mediapipe/" target="_blank"><img src="https://viz.mediapipe.dev/logo.png" alt="statsmodel" width="80"/></a>
   <a href="https://www.ultralytics.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png" alt="ultralytics" width="70"/></a>
-    <a href="https://imagej.net/ij/" target="_blank"><img src="https://imagej.net/media/icons/imagej2.png" alt="ImageJ" width="70"/></a>
-    <a href="https://roboflow.com/" target="_blank"><img src="https://d7umqicpi7263.cloudfront.net/img/product/f3e1e364-c13b-47d4-9c33-621d50e66ac9.png" alt="ImageJ" height="70"/></a>
+    <a href="https://imagej.net/ij/" target="_blank"><img src="https://imagej.net/media/icons/imagej2.png" alt="ImageJ" width="90"/></a>
+    <a href="https://roboflow.com/" target="_blank"><img src="./roboflow.png" alt="ImageJ" width="90"/></a>
 </p>
 
 ### **LLMs and AI Agents**
