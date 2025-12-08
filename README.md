@@ -113,14 +113,10 @@
 ---
 
 ## 🤝 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/moetez-fradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="70" height="70"/></a>
-  <a href="https://kaggle.com/moetezfradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="70" height="70"/></a>
-  <a href="https://codeforces.com/profile/dagoat4" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="70" height="70"/></a>
-  <a href="https://leetcode.com/golden5ragon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="70" height="70"/></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/moetez-fradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="70" height="70"/></a> <a href="https://kaggle.com/moetezfradi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="70" height="70"/></a> <a href="https://www.codingame.com/profile/dagoat4" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCU9QgM_CWzCiaSlgCzOs_P1z7e-DImcDQQ&s" alt="CodinGame" height="70"/></a> <a href="https://leetcode.com/golden5ragon" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="70" height="70"/></a> </p>
 
-### My website: https://moetezfradi.me
+### My website: 
+<p align="center"> <a href="https://moetezfradi.me" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visit%20My%20Website-→%20moetezfradi.me-7AF79A?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Website Badge"> </a> <br/> <em style="color:#9CA3AF">Portfolio, projects, blog posts, and contact, everything up-to-date.</em> </p>
 
 ---
 
