@@ -12,34 +12,13 @@
 
 ## 🛠️ Tech Stack
 
-### **Machine Learning, Data Science & Computer Vision**
+### **Machine Learning & Data Science**
 <br />
-<p align="center">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://assets.datacamp.com/users/avatars/011/823/992/medium/seaborn.png?1695112269" alt="scipy" width="70" height="70"/></a>
-  <a href="https://www.statsmodels.org/stable/index.html" target="_blank"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodel" width="70"/></a>
-<a href="https://pypi.org/project/mediapipe/" target="_blank"><img src="https://viz.mediapipe.dev/logo.png" alt="statsmodel" width="80"/></a>
-  <a href="https://www.ultralytics.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png" alt="ultralytics" width="70"/></a>
-    <a href="https://imagej.net/ij/" target="_blank"><img src="https://imagej.net/media/icons/imagej2.png" alt="ImageJ" width="90"/></a>
-    <a href="https://roboflow.com/" target="_blank"><img src="./roboflow.png" alt="ImageJ" width="70"/></a>
-</p>
+<p align="center"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-jupyter-3521524-2945027.png" alt="jupyter" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://www.statsmodels.org/" target="_blank"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://assets.datacamp.com/users/avatars/011/823/992/medium/seaborn.png?1695112269" alt="seaborn" width="70"/></a> </p>
 
-### **LLMs and AI Agents**
+### **AI (Computer Vision, LLMs and Agents)**
 <br />
-<p align="center">
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-jupyter-3521524-2945027.png" alt="jupyter" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/docs/smolagents" target="_blank" rel="noreferrer"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="smolagents" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://langchain-ai.github.io/langgraph/" target="_blank" rel="noreferrer"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="LlamaIndex" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="70" height="70"/></a>
- <a href="https://zenml.com/" target="_blank" rel="noreferrer"><img src="https://zenml.gallerycdn.vsassets.io/extensions/zenml/zenml-vscode/0.0.21/1748457477690/Microsoft.VisualStudio.Services.Icons.Default" alt="zenml" width="80" height="80"/></a>
- </a>
-</p>
+<p align="center"> <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://pypi.org/project/mediapipe/" target="_blank"><img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="80"/></a>&nbsp;&nbsp;&nbsp; <a href="https://www.ultralytics.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2e1d25e4ac8ebd8d5bb1cf26e508446c/ultralytics.png" alt="ultralytics" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://imagej.net/ij/" target="_blank"><img src="https://imagej.net/media/icons/imagej2.png" alt="ImageJ" width="90"/></a>&nbsp;&nbsp;&nbsp; <a href="https://roboflow.com/" target="_blank"><img src="./roboflow.png" alt="Roboflow" width="70"/></a> </p> <br /> <p align="center"> <a href="https://huggingface.co/docs/smolagents" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langgraph" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llamaindex-color.png" alt="llamaindex" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://qdrant.tech/" target="_blank"><img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="qdrant" width="70"/></a>&nbsp;&nbsp;&nbsp; <a href="https://zenml.com/" target="_blank"><img src="https://zenml.gallerycdn.vsassets.io/extensions/zenml/zenml-vscode/0.0.21/1748457477690/Microsoft.VisualStudio.Services.Icons.Default" alt="zenml" width="80"/></a> </p>
 
 ### **Cybersecurity & Ethical Hacking**
 <br />
